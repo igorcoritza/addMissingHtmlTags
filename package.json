@@ -1,0 +1,16 @@
+{
+  "name": "template-generator",
+  "version": "0.0.0",
+  "scripts": {
+    "makeTemplate": "node TemplateGenerator.js"
+  },
+  "private": true,
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "fs-extra": "^8.1.0",
+    "read-xml": "^3.0.0",
+    "xml2js": "^0.4.23",
+    "zone.js": "~0.9.1"
+  },
+  "devDependencies": {}
+}
